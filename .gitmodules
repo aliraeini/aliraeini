@@ -1,0 +1,12 @@
+[submodule "image3kit"]
+	path = image3kit
+	url = ./image3kit
+[submodule "pnmkit"]
+	path = pnmkit
+	url = ./pnmkit
+[submodule "porgui"]
+	path = porgui
+	url = ./porgui
+[submodule "xpm"]
+	path = xpm
+	url = ./xpm
